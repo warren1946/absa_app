@@ -1,4 +1,4 @@
-package com.charished.absa.models.data.remote
+package com.charished.absa.models.remote
 
 import com.charished.absa.utils.Resource
 import retrofit2.Response
